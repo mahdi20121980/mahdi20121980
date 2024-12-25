@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mahdi20121980
+- 👋 Hi, I’m @mahdi20121980 or Adam
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Microsoft
-- 😄 Pronouns: Mahdi
+- 😄 Pronouns: MahdiDev
 - ⚡ Fun fact: I like Sonic
 
 <!---
