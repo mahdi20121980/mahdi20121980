@@ -1,6 +1,10 @@
-Hi, I'm MahdiDev 👨‍💻
+# Hi I'm MahdiDev 👨‍💻
 
-My name is Adam
-I like Python
-I live in Spain
-I learning Python
+```
+class MahdiDev:
+	def __init__ (self, name, location, acknowledgements):
+ 		self.name = "Adam"
+	  self.location = "Spain"
+	  self.acknowledgements = "Python and web development student"
+```
+About me 
