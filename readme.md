@@ -7,4 +7,3 @@ class MahdiDev:
 	  self.location = "Spain"
 	  self.acknowledgements = "Python and web development student"
 ```
-About me 
